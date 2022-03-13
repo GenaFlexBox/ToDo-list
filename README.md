@@ -6,6 +6,6 @@
 Стек:<br>
 
 HTML<br>
-JavaScript<br><br>
+JavaScript<br>
 Библиотека Bootstrap<br>
 местное хранилище<br>
