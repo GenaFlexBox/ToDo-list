@@ -1,11 +1,11 @@
 # ToDo-list
-Список дел на чистом JavaScript.
-Ссылка на список дел : 
+Список дел на чистом JavaScript.<br>
+Ссылка на список дел : <br>
 
 
-Стек:
+Стек:<br>
 
-HTML
-JavaScript
-Библиотека Bootstrap
-местное хранилище
+HTML<br>
+JavaScript<br><br>
+Библиотека Bootstrap<br>
+местное хранилище<br>
